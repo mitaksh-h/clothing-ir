@@ -1,0 +1,320 @@
+======================================================================
+PART E: TEST REPORT
+======================================================================
+Corpus size (N): 100
+Vocabulary size: 126
+
+----------------------------------------------------------------------
+SECTION 1: FREE-TEXT QUERIES (VSM, lnc.ltc) -- 11 queries
+----------------------------------------------------------------------
+
+Free-text query: "cotton shirt for men"
+  Rank DocID   Score     Category      Title
+  1    D001    0.3247    T-Shirt       Men's Cotton Crew Neck T-Shirt - Black
+  2    D041    0.3247    T-Shirt       Men's Cotton Crew Neck T-Shirt - Maroon
+  3    D061    0.3247    T-Shirt       Men's Cotton Crew Neck T-Shirt - White
+  4    D022    0.3244    Shirt         Men's Checked Cotton Shirt - White
+  5    D082    0.3244    Shirt         Men's Checked Cotton Shirt - Blue
+  6    D042    0.3223    Shirt         Men's Checked Cotton Shirt - Maroon
+  7    D081    0.3214    T-Shirt       Men's Cotton Crew Neck T-Shirt - Mustard
+  8    D002    0.3190    Shirt         Men's Checked Cotton Shirt - Black
+  9    D062    0.3190    Shirt         Men's Checked Cotton Shirt - Olive
+  10   D021    0.3146    T-Shirt       Men's Cotton Crew Neck T-Shirt - Sky Blue
+
+Free-text query: "regular fit denim jeans"
+  Rank DocID   Score     Category      Title
+  1    D023    0.3389    Jeans         Men's Regular Fit Denim Jeans - Grey
+  2    D083    0.3389    Jeans         Men's Regular Fit Denim Jeans - Grey
+  3    D043    0.3367    Jeans         Men's Regular Fit Denim Jeans - Grey
+  4    D003    0.3310    Jeans         Men's Regular Fit Denim Jeans - Grey
+  5    D063    0.3310    Jeans         Men's Regular Fit Denim Jeans - Grey
+  6    D053    0.2934    Jeans         Men's Slim Fit Stretch Jeans - Grey
+  7    D013    0.2931    Jeans         Men's Slim Fit Stretch Jeans - Grey
+  8    D073    0.2931    Jeans         Men's Slim Fit Stretch Jeans - Grey
+  9    D033    0.2882    Jeans         Men's Slim Fit Stretch Jeans - Grey
+  10   D093    0.2882    Jeans         Men's Slim Fit Stretch Jeans - Grey
+
+Free-text query: "winter wear jacket"
+  Rank DocID   Score     Category      Title
+  1    D058    0.3087    Jacket        Women's Quilted Winter Jacket - Black
+  2    D018    0.3066    Jacket        Women's Quilted Winter Jacket - Beige
+  3    D078    0.3066    Jacket        Women's Quilted Winter Jacket - Beige
+  4    D038    0.3032    Jacket        Women's Quilted Winter Jacket - Olive
+  5    D098    0.3032    Jacket        Women's Quilted Winter Jacket - Olive
+  6    D028    0.2647    Jacket        Women's Casual Puffer Jacket - Black
+  7    D088    0.2647    Jacket        Women's Casual Puffer Jacket - Black
+  8    D048    0.2629    Jacket        Women's Casual Puffer Jacket - Beige
+  9    D008    0.2601    Jacket        Women's Casual Puffer Jacket - Olive
+  10   D068    0.2601    Jacket        Women's Casual Puffer Jacket - Olive
+
+Free-text query: "festive kurta for women"
+  Rank DocID   Score     Category      Title
+  1    D034    0.2522    Kurta         Women's Printed Straight Kurta - Maroon
+  2    D094    0.2522    Kurta         Women's Printed Straight Kurta - Teal
+  3    D054    0.2501    Kurta         Women's Printed Straight Kurta - Mustard
+  4    D014    0.2483    Kurta         Women's Printed Straight Kurta - Beige
+  5    D074    0.2483    Kurta         Women's Printed Straight Kurta - Pink
+  6    D004    0.2134    Kurta         Men's Regular Fit Kurta - Pink
+  7    D064    0.2134    Kurta         Men's Regular Fit Kurta - White
+  8    D024    0.2115    Kurta         Men's Regular Fit Kurta - Teal
+  9    D084    0.2115    Kurta         Men's Regular Fit Kurta - Beige
+  10   D044    0.2052    Kurta         Men's Regular Fit Kurta - Navy Blue
+
+Free-text query: "breathable fabric t-shirt"
+  Rank DocID   Score     Category      Title
+  1    D011    0.3482    T-Shirt       Men's Oversized Graphic T-Shirt - Mustard
+  2    D071    0.3482    T-Shirt       Men's Oversized Graphic T-Shirt - Black
+  3    D001    0.3476    T-Shirt       Men's Cotton Crew Neck T-Shirt - Black
+  4    D041    0.3476    T-Shirt       Men's Cotton Crew Neck T-Shirt - Maroon
+  5    D061    0.3476    T-Shirt       Men's Cotton Crew Neck T-Shirt - White
+  6    D081    0.3441    T-Shirt       Men's Cotton Crew Neck T-Shirt - Mustard
+  7    D031    0.3407    T-Shirt       Men's Oversized Graphic T-Shirt - Olive Green
+  8    D091    0.3407    T-Shirt       Men's Oversized Graphic T-Shirt - Sky Blue
+  9    D051    0.3374    T-Shirt       Men's Oversized Graphic T-Shirt - Navy Blue
+  10   D021    0.3368    T-Shirt       Men's Cotton Crew Neck T-Shirt - Sky Blue
+
+Free-text query: "stretch leggings"
+  Rank DocID   Score     Category      Title
+  1    D029    0.3020    Leggings      Women's High Waist Stretch Leggings - Grey
+  2    D049    0.3020    Leggings      Women's High Waist Stretch Leggings - Black
+  3    D089    0.3020    Leggings      Women's High Waist Stretch Leggings - Grey
+  4    D009    0.2924    Leggings      Women's High Waist Stretch Leggings - Olive Green
+  5    D069    0.2924    Leggings      Women's High Waist Stretch Leggings - Olive Green
+  6    D019    0.1604    Leggings      Women's Printed Active Leggings - Black
+  7    D059    0.1604    Leggings      Women's Printed Active Leggings - Grey
+  8    D079    0.1604    Leggings      Women's Printed Active Leggings - Black
+  9    D039    0.1553    Leggings      Women's Printed Active Leggings - Olive Green
+  10   D099    0.1553    Leggings      Women's Printed Active Leggings - Olive Green
+
+Free-text query: "party wear saree"
+  Rank DocID   Score     Category      Title
+  1    D035    0.2173    Saree         Women's Cotton Handloom Saree - Yellow
+  2    D055    0.2173    Saree         Women's Cotton Handloom Saree - Pink
+  3    D095    0.2173    Saree         Women's Cotton Handloom Saree - Maroon
+  4    D005    0.2164    Saree         Women's Printed Daily Wear Saree - Blue
+  5    D025    0.2164    Saree         Women's Printed Daily Wear Saree - Maroon
+  6    D065    0.2164    Saree         Women's Printed Daily Wear Saree - Green
+  7    D085    0.2164    Saree         Women's Printed Daily Wear Saree - Red
+  8    D015    0.2150    Saree         Women's Cotton Handloom Saree - Red
+  9    D075    0.2150    Saree         Women's Cotton Handloom Saree - Blue
+  10   D045    0.2142    Saree         Women's Printed Daily Wear Saree - Purple
+
+Free-text query: "zip closure hoodie"
+  Rank DocID   Score     Category      Title
+  1    D037    0.1253    Hoodie        Unisex Fleece Pullover Hoodie - Black
+  2    D097    0.1253    Hoodie        Unisex Fleece Pullover Hoodie - Black
+  3    D057    0.1240    Hoodie        Unisex Fleece Pullover Hoodie - Wine
+  4    D007    0.1233    Hoodie        Women's Oversized Fleece Hoodie - Black
+  5    D067    0.1233    Hoodie        Women's Oversized Fleece Hoodie - Black
+  6    D017    0.1225    Hoodie        Unisex Fleece Pullover Hoodie - Navy Blue
+  7    D077    0.1225    Hoodie        Unisex Fleece Pullover Hoodie - Navy Blue
+  8    D027    0.1220    Hoodie        Women's Oversized Fleece Hoodie - Wine
+  9    D087    0.1220    Hoodie        Women's Oversized Fleece Hoodie - Wine
+  10   D047    0.1206    Hoodie        Women's Oversized Fleece Hoodie - Navy Blue
+
+Free-text query: "high waist trousers"
+  Rank DocID   Score     Category      Title
+  1    D029    0.3025    Leggings      Women's High Waist Stretch Leggings - Grey
+  2    D049    0.3025    Leggings      Women's High Waist Stretch Leggings - Black
+  3    D089    0.3025    Leggings      Women's High Waist Stretch Leggings - Grey
+  4    D009    0.2929    Leggings      Women's High Waist Stretch Leggings - Olive Green
+  5    D069    0.2929    Leggings      Women's High Waist Stretch Leggings - Olive Green
+  6    D019    0.2052    Leggings      Women's Printed Active Leggings - Black
+  7    D059    0.2052    Leggings      Women's Printed Active Leggings - Grey
+  8    D079    0.2052    Leggings      Women's Printed Active Leggings - Black
+  9    D039    0.1986    Leggings      Women's Printed Active Leggings - Olive Green
+  10   D099    0.1986    Leggings      Women's Printed Active Leggings - Olive Green
+
+Free-text query: "formal office shirt"
+  Rank DocID   Score     Category      Title
+  1    D052    0.2161    Shirt         Women's Striped Casual Shirt - Beige
+  2    D022    0.2150    Shirt         Men's Checked Cotton Shirt - White
+  3    D082    0.2150    Shirt         Men's Checked Cotton Shirt - Blue
+  4    D012    0.2147    Shirt         Women's Striped Casual Shirt - Blue
+  5    D072    0.2147    Shirt         Women's Striped Casual Shirt - Black
+  6    D042    0.2136    Shirt         Men's Checked Cotton Shirt - Maroon
+  7    D092    0.2125    Shirt         Women's Striped Casual Shirt - White
+  8    D002    0.2114    Shirt         Men's Checked Cotton Shirt - Black
+  9    D062    0.2114    Shirt         Men's Checked Cotton Shirt - Olive
+  10   D011    0.2110    T-Shirt       Men's Oversized Graphic T-Shirt - Mustard
+
+Free-text query: "unicorn spacesuit accessory"
+  No matching documents (query terms not found in corpus).
+
+----------------------------------------------------------------------
+SECTION 2: EXACT PHRASE QUERIES (positional index) -- 6 queries
+----------------------------------------------------------------------
+
+Phrase query: "cotton shirt"
+  Found in 5 document(s):
+    D002    Men's Checked Cotton Shirt - Black           start_positions=[2, 7]
+    D022    Men's Checked Cotton Shirt - White           start_positions=[2, 7]
+    D042    Men's Checked Cotton Shirt - Maroon          start_positions=[2, 7]
+    D062    Men's Checked Cotton Shirt - Olive           start_positions=[2, 7]
+    D082    Men's Checked Cotton Shirt - Blue            start_positions=[2, 7]
+
+Phrase query: "stretch denim"
+  Found in 7 document(s):
+    D003    Men's Regular Fit Denim Jeans - Grey         start_positions=[14]
+    D013    Men's Slim Fit Stretch Jeans - Grey          start_positions=[13]
+    D033    Men's Slim Fit Stretch Jeans - Grey          start_positions=[14]
+    D043    Men's Regular Fit Denim Jeans - Grey         start_positions=[13]
+    D063    Men's Regular Fit Denim Jeans - Grey         start_positions=[14]
+    D073    Men's Slim Fit Stretch Jeans - Grey          start_positions=[13]
+    D093    Men's Slim Fit Stretch Jeans - Grey          start_positions=[14]
+
+Phrase query: "festive wear"
+  Found in 10 document(s):
+    D005    Women's Printed Daily Wear Saree - Blue      start_positions=[20]
+    D015    Women's Cotton Handloom Saree - Red          start_positions=[18]
+    D025    Women's Printed Daily Wear Saree - Maroon    start_positions=[20]
+    D035    Women's Cotton Handloom Saree - Yellow       start_positions=[18]
+    D045    Women's Printed Daily Wear Saree - Purple    start_positions=[20]
+    D055    Women's Cotton Handloom Saree - Pink         start_positions=[18]
+    D065    Women's Printed Daily Wear Saree - Green     start_positions=[20]
+    D075    Women's Cotton Handloom Saree - Blue         start_positions=[18]
+    D085    Women's Printed Daily Wear Saree - Red       start_positions=[20]
+    D095    Women's Cotton Handloom Saree - Maroon       start_positions=[18]
+
+Phrase query: "winter wear"
+  Found in 20 document(s):
+    D008    Women's Casual Puffer Jacket - Olive         start_positions=[20]
+    D010    Women's Fleece Sweatshirt - Black            start_positions=[17]
+    D018    Women's Quilted Winter Jacket - Beige        start_positions=[19]
+    D020    Men's Regular Fit Sweatshirt - Navy Blue     start_positions=[21]
+    D028    Women's Casual Puffer Jacket - Black         start_positions=[20]
+    D030    Women's Fleece Sweatshirt - Maroon           start_positions=[17]
+    D038    Women's Quilted Winter Jacket - Olive        start_positions=[19]
+    D040    Men's Regular Fit Sweatshirt - Black         start_positions=[19]
+    D048    Women's Casual Puffer Jacket - Beige         start_positions=[20]
+    D050    Women's Fleece Sweatshirt - Navy Blue        start_positions=[19]
+    D058    Women's Quilted Winter Jacket - Black        start_positions=[19]
+    D060    Men's Regular Fit Sweatshirt - Maroon        start_positions=[19]
+    D068    Women's Casual Puffer Jacket - Olive         start_positions=[20]
+    D070    Women's Fleece Sweatshirt - Black            start_positions=[17]
+    D078    Women's Quilted Winter Jacket - Beige        start_positions=[19]
+    D080    Men's Regular Fit Sweatshirt - Navy Blue     start_positions=[21]
+    D088    Women's Casual Puffer Jacket - Black         start_positions=[20]
+    D090    Women's Fleece Sweatshirt - Maroon           start_positions=[17]
+    D098    Women's Quilted Winter Jacket - Olive        start_positions=[19]
+    D100    Men's Regular Fit Sweatshirt - Black         start_positions=[19]
+
+Phrase query: "regular fit"
+  Found in 15 document(s):
+    D003    Men's Regular Fit Denim Jeans - Grey         start_positions=[1, 7]
+    D004    Men's Regular Fit Kurta - Pink               start_positions=[1, 6]
+    D020    Men's Regular Fit Sweatshirt - Navy Blue     start_positions=[1, 7]
+    D023    Men's Regular Fit Denim Jeans - Grey         start_positions=[1, 7]
+    D024    Men's Regular Fit Kurta - Teal               start_positions=[1, 6]
+    D040    Men's Regular Fit Sweatshirt - Black         start_positions=[1, 6]
+    D043    Men's Regular Fit Denim Jeans - Grey         start_positions=[1, 7]
+    D044    Men's Regular Fit Kurta - Navy Blue          start_positions=[1, 7]
+    D060    Men's Regular Fit Sweatshirt - Maroon        start_positions=[1, 6]
+    D063    Men's Regular Fit Denim Jeans - Grey         start_positions=[1, 7]
+    D064    Men's Regular Fit Kurta - White              start_positions=[1, 6]
+    D080    Men's Regular Fit Sweatshirt - Navy Blue     start_positions=[1, 7]
+    D083    Men's Regular Fit Denim Jeans - Grey         start_positions=[1, 7]
+    D084    Men's Regular Fit Kurta - Beige              start_positions=[1, 6]
+    D100    Men's Regular Fit Sweatshirt - Black         start_positions=[1, 6]
+
+Phrase query: "breathable fabric"
+  Found in 20 document(s):
+    D001    Men's Cotton Crew Neck T-Shirt - Black       start_positions=[23]
+    D004    Men's Regular Fit Kurta - Pink               start_positions=[19]
+    D011    Men's Oversized Graphic T-Shirt - Mustard    start_positions=[22]
+    D014    Women's Printed Straight Kurta - Beige       start_positions=[19]
+    D021    Men's Cotton Crew Neck T-Shirt - Sky Blue    start_positions=[25]
+    D024    Men's Regular Fit Kurta - Teal               start_positions=[19]
+    D031    Men's Oversized Graphic T-Shirt - Olive Greenstart_positions=[24]
+    D034    Women's Printed Straight Kurta - Maroon      start_positions=[19]
+    D041    Men's Cotton Crew Neck T-Shirt - Maroon      start_positions=[23]
+    D044    Men's Regular Fit Kurta - Navy Blue          start_positions=[21]
+    D051    Men's Oversized Graphic T-Shirt - Navy Blue  start_positions=[24]
+    D054    Women's Printed Straight Kurta - Mustard     start_positions=[19]
+    D061    Men's Cotton Crew Neck T-Shirt - White       start_positions=[23]
+    D064    Men's Regular Fit Kurta - White              start_positions=[19]
+    D071    Men's Oversized Graphic T-Shirt - Black      start_positions=[22]
+    D074    Women's Printed Straight Kurta - Pink        start_positions=[19]
+    D081    Men's Cotton Crew Neck T-Shirt - Mustard     start_positions=[23]
+    D084    Men's Regular Fit Kurta - Beige              start_positions=[19]
+    D091    Men's Oversized Graphic T-Shirt - Sky Blue   start_positions=[24]
+    D094    Women's Printed Straight Kurta - Teal        start_positions=[19]
+
+----------------------------------------------------------------------
+SECTION 3: PROXIMITY QUERIES (positional index) -- 4 queries, varying k
+----------------------------------------------------------------------
+
+Proximity query: "cotton" WITHIN/3 "shirt"
+  Found in 15 document(s):
+    D001    Men's Cotton Crew Neck T-Shirt - Black       position_pairs=[(1, 5), (8, 12), (15, 17)]
+    D002    Men's Checked Cotton Shirt - Black           position_pairs=[(2, 3), (7, 8)]
+    D011    Men's Oversized Graphic T-Shirt - Mustard    position_pairs=[(13, 16)]
+    D021    Men's Cotton Crew Neck T-Shirt - Sky Blue    position_pairs=[(1, 5), (9, 13), (17, 19)]
+    D022    Men's Checked Cotton Shirt - White           position_pairs=[(2, 3), (7, 8)]
+    D031    Men's Oversized Graphic T-Shirt - Olive Greenposition_pairs=[(15, 18)]
+    D041    Men's Cotton Crew Neck T-Shirt - Maroon      position_pairs=[(1, 5), (8, 12), (15, 17)]
+    D042    Men's Checked Cotton Shirt - Maroon          position_pairs=[(2, 3), (7, 8)]
+    D051    Men's Oversized Graphic T-Shirt - Navy Blue  position_pairs=[(15, 18)]
+    D061    Men's Cotton Crew Neck T-Shirt - White       position_pairs=[(1, 5), (8, 12), (15, 17)]
+    D062    Men's Checked Cotton Shirt - Olive           position_pairs=[(2, 3), (7, 8)]
+    D071    Men's Oversized Graphic T-Shirt - Black      position_pairs=[(13, 16)]
+    D081    Men's Cotton Crew Neck T-Shirt - Mustard     position_pairs=[(1, 5), (8, 12), (15, 17)]
+    D082    Men's Checked Cotton Shirt - Blue            position_pairs=[(2, 3), (7, 8)]
+    D091    Men's Oversized Graphic T-Shirt - Sky Blue   position_pairs=[(15, 18)]
+
+Proximity query: "stretch" WITHIN/4 "denim"
+  Found in 8 document(s):
+    D003    Men's Regular Fit Denim Jeans - Grey         position_pairs=[(14, 15)]
+    D013    Men's Slim Fit Stretch Jeans - Grey          position_pairs=[(9, 14), (13, 14)]
+    D033    Men's Slim Fit Stretch Jeans - Grey          position_pairs=[(14, 15)]
+    D043    Men's Regular Fit Denim Jeans - Grey         position_pairs=[(13, 14)]
+    D053    Men's Slim Fit Stretch Jeans - Grey          position_pairs=[(9, 14)]
+    D063    Men's Regular Fit Denim Jeans - Grey         position_pairs=[(14, 15)]
+    D073    Men's Slim Fit Stretch Jeans - Grey          position_pairs=[(9, 14), (13, 14)]
+    D093    Men's Slim Fit Stretch Jeans - Grey          position_pairs=[(14, 15)]
+
+Proximity query: "winter" WITHIN/3 "wear"
+  Found in 20 document(s):
+    D008    Women's Casual Puffer Jacket - Olive         position_pairs=[(20, 21)]
+    D010    Women's Fleece Sweatshirt - Black            position_pairs=[(17, 18)]
+    D018    Women's Quilted Winter Jacket - Beige        position_pairs=[(19, 20)]
+    D020    Men's Regular Fit Sweatshirt - Navy Blue     position_pairs=[(21, 22)]
+    D028    Women's Casual Puffer Jacket - Black         position_pairs=[(20, 21)]
+    D030    Women's Fleece Sweatshirt - Maroon           position_pairs=[(17, 18)]
+    D038    Women's Quilted Winter Jacket - Olive        position_pairs=[(19, 20)]
+    D040    Men's Regular Fit Sweatshirt - Black         position_pairs=[(19, 20)]
+    D048    Women's Casual Puffer Jacket - Beige         position_pairs=[(20, 21)]
+    D050    Women's Fleece Sweatshirt - Navy Blue        position_pairs=[(19, 20)]
+    D058    Women's Quilted Winter Jacket - Black        position_pairs=[(19, 20)]
+    D060    Men's Regular Fit Sweatshirt - Maroon        position_pairs=[(19, 20)]
+    D068    Women's Casual Puffer Jacket - Olive         position_pairs=[(20, 21)]
+    D070    Women's Fleece Sweatshirt - Black            position_pairs=[(17, 18)]
+    D078    Women's Quilted Winter Jacket - Beige        position_pairs=[(19, 20)]
+    D080    Men's Regular Fit Sweatshirt - Navy Blue     position_pairs=[(21, 22)]
+    D088    Women's Casual Puffer Jacket - Black         position_pairs=[(20, 21)]
+    D090    Women's Fleece Sweatshirt - Maroon           position_pairs=[(17, 18)]
+    D098    Women's Quilted Winter Jacket - Olive        position_pairs=[(19, 20)]
+    D100    Men's Regular Fit Sweatshirt - Black         position_pairs=[(19, 20)]
+
+Proximity query: "festive" WITHIN/4 "kurta"
+  No matches found.
+
+----------------------------------------------------------------------
+SECTION 4: VSM vs POSITIONAL COMPARISON
+----------------------------------------------------------------------
+
+Query terms: 'cotton shirt'
+  VSM (bag-of-words) top-10 docIDs   : ['D001', 'D002', 'D021', 'D022', 'D041', 'D042', 'D061', 'D062', 'D081', 'D082']
+  Positional exact-phrase docIDs     : ['D002', 'D022', 'D042', 'D062', 'D082']
+  -> VSM retrieves ['D001', 'D021', 'D041', 'D061', 'D081'] even though the terms do NOT appear as an exact adjacent phrase there (bag-of-words ignores word order/adjacency).
+
+Query terms: 'regular fit'
+  VSM (bag-of-words) top-10 docIDs   : ['D004', 'D016', 'D024', 'D036', 'D044', 'D056', 'D064', 'D076', 'D084', 'D096']
+  Positional exact-phrase docIDs     : ['D003', 'D004', 'D020', 'D023', 'D024', 'D040', 'D043', 'D044', 'D060', 'D063', 'D064', 'D080', 'D083', 'D084', 'D100']
+  -> VSM retrieves ['D016', 'D036', 'D056', 'D076', 'D096'] even though the terms do NOT appear as an exact adjacent phrase there (bag-of-words ignores word order/adjacency).
+  -> Phrase search finds ['D003', 'D020', 'D023', 'D040', 'D043', 'D060', 'D063', 'D080', 'D083', 'D100'] which VSM may rank lower/outside top-10 despite the exact phrase being present, since VSM scores by term weight, not adjacency.
+
+Query terms: 'winter wear'
+  VSM (bag-of-words) top-10 docIDs   : ['D010', 'D018', 'D028', 'D030', 'D038', 'D058', 'D070', 'D078', 'D088', 'D098']
+  Positional exact-phrase docIDs     : ['D008', 'D010', 'D018', 'D020', 'D028', 'D030', 'D038', 'D040', 'D048', 'D050', 'D058', 'D060', 'D068', 'D070', 'D078', 'D080', 'D088', 'D090', 'D098', 'D100']
+  -> Phrase search finds ['D008', 'D020', 'D040', 'D048', 'D050', 'D060', 'D068', 'D080', 'D090', 'D100'] which VSM may rank lower/outside top-10 despite the exact phrase being present, since VSM scores by term weight, not adjacency.

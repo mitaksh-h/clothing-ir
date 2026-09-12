@@ -1,0 +1,1232 @@
+POSITIONAL INDEX (Part C)
+Total documents (N): 100
+Vocabulary size: 126
+======================================================================
+
+activ                df=  5
+    D019: tf=2  positions=[2, 7]
+    D039: tf=2  positions=[2, 8]
+    D059: tf=2  positions=[2, 7]
+    D079: tf=2  positions=[2, 7]
+    D099: tf=2  positions=[2, 8]
+
+avail                df=100
+    D001: tf=1  positions=[40]
+    D002: tf=1  positions=[37]
+    D003: tf=1  positions=[40]
+    D004: tf=1  positions=[36]
+    D005: tf=1  positions=[37]
+    D006: tf=1  positions=[36]
+    D007: tf=1  positions=[36]
+    D008: tf=1  positions=[36]
+    ... (+92 more)
+
+beig                 df=  6
+    D014: tf=3  positions=[4, 9, 26]
+    D018: tf=3  positions=[4, 9, 23]
+    D048: tf=3  positions=[4, 9, 24]
+    D052: tf=3  positions=[4, 9, 25]
+    D078: tf=3  positions=[4, 9, 23]
+    D084: tf=3  positions=[4, 9, 25]
+
+black                df= 19
+    D001: tf=3  positions=[6, 13, 29]
+    D002: tf=3  positions=[4, 9, 26]
+    D007: tf=3  positions=[4, 9, 25]
+    D010: tf=3  positions=[3, 7, 23]
+    D019: tf=3  positions=[4, 9, 25]
+    D028: tf=3  positions=[4, 9, 24]
+    D036: tf=3  positions=[4, 9, 24]
+    D037: tf=3  positions=[4, 9, 24]
+    ... (+11 more)
+
+blend                df= 30
+    D002: tf=1  positions=[12]
+    D004: tf=1  positions=[12]
+    D006: tf=1  positions=[12]
+    D010: tf=1  positions=[10]
+    D011: tf=1  positions=[14]
+    D012: tf=1  positions=[12]
+    D022: tf=1  positions=[12]
+    D024: tf=1  positions=[12]
+    ... (+22 more)
+
+blue                 df= 16
+    D005: tf=3  positions=[5, 11, 26]
+    D012: tf=3  positions=[4, 9, 25]
+    D017: tf=3  positions=[5, 11, 27]
+    D020: tf=3  positions=[5, 11, 29]
+    D021: tf=3  positions=[7, 15, 33]
+    D026: tf=3  positions=[5, 11, 29]
+    D044: tf=3  positions=[5, 11, 29]
+    D047: tf=3  positions=[5, 11, 28]
+    ... (+8 more)
+
+border               df= 10
+    D005: tf=1  positions=[23]
+    D015: tf=1  positions=[21]
+    D025: tf=1  positions=[23]
+    D035: tf=1  positions=[21]
+    D045: tf=1  positions=[23]
+    D055: tf=1  positions=[21]
+    D065: tf=1  positions=[23]
+    D075: tf=1  positions=[21]
+    ... (+2 more)
+
+breathabl            df= 20
+    D001: tf=1  positions=[23]
+    D004: tf=1  positions=[19]
+    D011: tf=1  positions=[22]
+    D014: tf=1  positions=[19]
+    D021: tf=1  positions=[25]
+    D024: tf=1  positions=[19]
+    D031: tf=1  positions=[24]
+    D034: tf=1  positions=[19]
+    ... (+12 more)
+
+button               df= 10
+    D002: tf=1  positions=[19]
+    D012: tf=1  positions=[19]
+    D022: tf=1  positions=[19]
+    D032: tf=1  positions=[21]
+    D042: tf=1  positions=[19]
+    D052: tf=1  positions=[19]
+    D062: tf=1  positions=[19]
+    D072: tf=1  positions=[19]
+    ... (+2 more)
+
+can                  df=100
+    D001: tf=1  positions=[49]
+    D002: tf=1  positions=[47]
+    D003: tf=1  positions=[50]
+    D004: tf=1  positions=[46]
+    D005: tf=1  positions=[47]
+    D006: tf=1  positions=[45]
+    D007: tf=1  positions=[46]
+    D008: tf=1  positions=[46]
+    ... (+92 more)
+
+care                 df= 17
+    D003: tf=1  positions=[27]
+    D009: tf=1  positions=[28]
+    D015: tf=1  positions=[23]
+    D021: tf=1  positions=[30]
+    D027: tf=1  positions=[24]
+    D033: tf=1  positions=[27]
+    D039: tf=1  positions=[26]
+    D045: tf=1  positions=[25]
+    ... (+9 more)
+
+casual               df=100
+    D001: tf=1  positions=[33]
+    D002: tf=1  positions=[30]
+    D003: tf=1  positions=[33]
+    D004: tf=1  positions=[29]
+    D005: tf=1  positions=[30]
+    D006: tf=1  positions=[29]
+    D007: tf=1  positions=[29]
+    D008: tf=3  positions=[1, 6, 29]
+    ... (+92 more)
+
+check                df=  5
+    D002: tf=2  positions=[1, 6]
+    D022: tf=2  positions=[1, 6]
+    D042: tf=2  positions=[1, 6]
+    D062: tf=2  positions=[1, 6]
+    D082: tf=2  positions=[1, 6]
+
+chiffon              df=  5
+    D015: tf=1  positions=[11]
+    D035: tf=1  positions=[11]
+    D055: tf=1  positions=[11]
+    D075: tf=1  positions=[11]
+    D095: tf=1  positions=[11]
+
+closur               df= 10
+    D002: tf=1  positions=[20]
+    D012: tf=1  positions=[20]
+    D022: tf=1  positions=[20]
+    D032: tf=1  positions=[22]
+    D042: tf=1  positions=[20]
+    D052: tf=1  positions=[20]
+    D062: tf=1  positions=[20]
+    D072: tf=1  positions=[20]
+    ... (+2 more)
+
+colour               df=100
+    D001: tf=1  positions=[30]
+    D002: tf=1  positions=[27]
+    D003: tf=1  positions=[30]
+    D004: tf=1  positions=[26]
+    D005: tf=1  positions=[27]
+    D006: tf=1  positions=[26]
+    D007: tf=1  positions=[26]
+    D008: tf=1  positions=[26]
+    ... (+92 more)
+
+colourfast           df= 17
+    D001: tf=1  positions=[27]
+    D007: tf=1  positions=[23]
+    D013: tf=1  positions=[25]
+    D019: tf=1  positions=[23]
+    D025: tf=1  positions=[24]
+    D031: tf=1  positions=[28]
+    D037: tf=1  positions=[22]
+    D043: tf=1  positions=[25]
+    ... (+9 more)
+
+comfort              df=100
+    D001: tf=1  positions=[46]
+    D002: tf=1  positions=[44]
+    D003: tf=2  positions=[13, 47]
+    D004: tf=3  positions=[21, 24, 43]
+    D005: tf=1  positions=[44]
+    D006: tf=2  positions=[19, 42]
+    D007: tf=1  positions=[43]
+    D008: tf=1  positions=[43]
+    ... (+92 more)
+
+common               df=100
+    D001: tf=1  positions=[51]
+    D002: tf=1  positions=[49]
+    D003: tf=1  positions=[52]
+    D004: tf=1  positions=[48]
+    D005: tf=1  positions=[49]
+    D006: tf=1  positions=[47]
+    D007: tf=1  positions=[48]
+    D008: tf=1  positions=[48]
+    ... (+92 more)
+
+construct            df= 17
+    D003: tf=1  positions=[28]
+    D009: tf=1  positions=[29]
+    D015: tf=1  positions=[24]
+    D021: tf=1  positions=[31]
+    D027: tf=1  positions=[25]
+    D033: tf=1  positions=[28]
+    D039: tf=1  positions=[27]
+    D045: tf=1  positions=[26]
+    ... (+9 more)
+
+cotton               df= 58
+    D001: tf=3  positions=[1, 8, 15]
+    D002: tf=2  positions=[2, 7]
+    D005: tf=1  positions=[13]
+    D006: tf=1  positions=[11]
+    D007: tf=1  positions=[12]
+    D009: tf=1  positions=[15]
+    D010: tf=1  positions=[9]
+    D011: tf=1  positions=[13]
+    ... (+50 more)
+
+crew                 df=  5
+    D001: tf=2  positions=[2, 9]
+    D021: tf=2  positions=[2, 10]
+    D041: tf=2  positions=[2, 9]
+    D061: tf=2  positions=[2, 9]
+    D081: tf=2  positions=[2, 9]
+
+daili                df=  5
+    D005: tf=2  positions=[2, 8]
+    D025: tf=2  positions=[2, 8]
+    D045: tf=2  positions=[2, 8]
+    D065: tf=2  positions=[2, 8]
+    D085: tf=2  positions=[2, 8]
+
+denim                df= 15
+    D003: tf=3  positions=[3, 9, 15]
+    D013: tf=1  positions=[14]
+    D018: tf=1  positions=[11]
+    D023: tf=3  positions=[3, 9, 14]
+    D033: tf=1  positions=[15]
+    D038: tf=1  positions=[11]
+    D043: tf=3  positions=[3, 9, 14]
+    D053: tf=1  positions=[14]
+    ... (+7 more)
+
+depend               df=100
+    D001: tf=1  positions=[38]
+    D002: tf=1  positions=[35]
+    D003: tf=1  positions=[38]
+    D004: tf=1  positions=[34]
+    D005: tf=1  positions=[35]
+    D006: tf=1  positions=[34]
+    D007: tf=1  positions=[34]
+    D008: tf=1  positions=[34]
+    ... (+92 more)
+
+design               df=100
+    D001: tf=1  positions=[18]
+    D002: tf=1  positions=[14]
+    D003: tf=1  positions=[17]
+    D004: tf=1  positions=[14]
+    D005: tf=1  positions=[15]
+    D006: tf=1  positions=[14]
+    D007: tf=1  positions=[14]
+    D008: tf=1  positions=[14]
+    ... (+92 more)
+
+dress                df= 10
+    D006: tf=3  positions=[3, 8, 13]
+    D016: tf=3  positions=[3, 9, 14]
+    D026: tf=3  positions=[3, 9, 15]
+    D036: tf=3  positions=[3, 8, 12]
+    D046: tf=3  positions=[3, 8, 13]
+    D056: tf=3  positions=[3, 8, 12]
+    D066: tf=3  positions=[3, 8, 13]
+    D076: tf=3  positions=[3, 8, 12]
+    ... (+2 more)
+
+durabl               df= 23
+    D003: tf=1  positions=[24]
+    D005: tf=1  positions=[24]
+    D011: tf=1  positions=[26]
+    D013: tf=1  positions=[23]
+    D017: tf=1  positions=[24]
+    D023: tf=2  positions=[23, 25]
+    D029: tf=1  positions=[25]
+    D033: tf=1  positions=[24]
+    ... (+15 more)
+
+easi                 df= 17
+    D003: tf=1  positions=[26]
+    D009: tf=1  positions=[27]
+    D015: tf=1  positions=[22]
+    D021: tf=1  positions=[29]
+    D027: tf=1  positions=[23]
+    D033: tf=1  positions=[26]
+    D039: tf=1  positions=[25]
+    D045: tf=1  positions=[24]
+    ... (+9 more)
+
+essenti              df=100
+    D001: tf=1  positions=[53]
+    D002: tf=1  positions=[51]
+    D003: tf=1  positions=[54]
+    D004: tf=1  positions=[50]
+    D005: tf=1  positions=[51]
+    D006: tf=1  positions=[49]
+    D007: tf=1  positions=[50]
+    D008: tf=1  positions=[50]
+    ... (+92 more)
+
+everyday             df=100
+    D001: tf=1  positions=[19]
+    D002: tf=1  positions=[15]
+    D003: tf=1  positions=[18]
+    D004: tf=2  positions=[15, 23]
+    D005: tf=1  positions=[16]
+    D006: tf=1  positions=[15]
+    D007: tf=1  positions=[15]
+    D008: tf=1  positions=[15]
+    ... (+92 more)
+
+fabric               df= 51
+    D001: tf=1  positions=[24]
+    D002: tf=1  positions=[25]
+    D004: tf=1  positions=[20]
+    D007: tf=1  positions=[22]
+    D008: tf=1  positions=[24]
+    D010: tf=1  positions=[20]
+    D011: tf=1  positions=[23]
+    D014: tf=2  positions=[20, 25]
+    ... (+43 more)
+
+featur               df=100
+    D001: tf=1  positions=[22]
+    D002: tf=1  positions=[18]
+    D003: tf=1  positions=[21]
+    D004: tf=1  positions=[18]
+    D005: tf=1  positions=[19]
+    D006: tf=1  positions=[18]
+    D007: tf=1  positions=[18]
+    D008: tf=1  positions=[18]
+    ... (+92 more)
+
+festiv               df=100
+    D001: tf=1  positions=[36]
+    D002: tf=1  positions=[33]
+    D003: tf=1  positions=[36]
+    D004: tf=1  positions=[32]
+    D005: tf=2  positions=[20, 33]
+    D006: tf=1  positions=[32]
+    D007: tf=1  positions=[32]
+    D008: tf=1  positions=[32]
+    ... (+92 more)
+
+finish               df= 17
+    D001: tf=1  positions=[28]
+    D007: tf=1  positions=[24]
+    D013: tf=1  positions=[26]
+    D019: tf=1  positions=[24]
+    D025: tf=1  positions=[25]
+    D031: tf=1  positions=[29]
+    D037: tf=1  positions=[23]
+    D043: tf=1  positions=[26]
+    ... (+9 more)
+
+fit                  df= 45
+    D002: tf=1  positions=[22]
+    D003: tf=2  positions=[2, 8]
+    D004: tf=3  positions=[2, 7, 22]
+    D006: tf=1  positions=[20]
+    D012: tf=1  positions=[22]
+    D013: tf=2  positions=[2, 8]
+    D014: tf=1  positions=[22]
+    D016: tf=3  positions=[2, 8, 21]
+    ... (+37 more)
+
+fleec                df= 15
+    D007: tf=2  positions=[2, 7]
+    D010: tf=2  positions=[1, 5]
+    D017: tf=3  positions=[1, 7, 13]
+    D027: tf=2  positions=[2, 7]
+    D030: tf=2  positions=[1, 5]
+    D037: tf=3  positions=[1, 6, 11]
+    D047: tf=2  positions=[2, 8]
+    D050: tf=2  positions=[1, 6]
+    ... (+7 more)
+
+fli                  df= 10
+    D003: tf=1  positions=[23]
+    D013: tf=1  positions=[22]
+    D023: tf=1  positions=[22]
+    D033: tf=1  positions=[23]
+    D043: tf=1  positions=[22]
+    D053: tf=1  positions=[22]
+    D063: tf=1  positions=[23]
+    D073: tf=1  positions=[22]
+    ... (+2 more)
+
+floral               df=  2
+    D016: tf=3  positions=[4, 10, 26]
+    D086: tf=3  positions=[4, 10, 28]
+
+friendli             df= 17
+    D002: tf=1  positions=[24]
+    D008: tf=1  positions=[23]
+    D014: tf=1  positions=[24]
+    D020: tf=1  positions=[26]
+    D026: tf=1  positions=[26]
+    D032: tf=1  positions=[26]
+    D038: tf=1  positions=[22]
+    D044: tf=1  positions=[26]
+    ... (+9 more)
+
+garment              df=100
+    D001: tf=2  positions=[39, 44]
+    D002: tf=2  positions=[36, 42]
+    D003: tf=2  positions=[39, 45]
+    D004: tf=2  positions=[35, 41]
+    D005: tf=2  positions=[36, 42]
+    D006: tf=2  positions=[35, 40]
+    D007: tf=2  positions=[35, 41]
+    D008: tf=2  positions=[35, 41]
+    ... (+92 more)
+
+graphic              df=  5
+    D011: tf=2  positions=[2, 8]
+    D031: tf=2  positions=[2, 9]
+    D051: tf=2  positions=[2, 9]
+    D071: tf=2  positions=[2, 8]
+    D091: tf=2  positions=[2, 9]
+
+green                df=  8
+    D006: tf=3  positions=[4, 9, 25]
+    D009: tf=3  positions=[6, 13, 31]
+    D031: tf=3  positions=[6, 13, 31]
+    D039: tf=3  positions=[5, 11, 29]
+    D065: tf=3  positions=[5, 11, 26]
+    D069: tf=3  positions=[6, 13, 31]
+    D076: tf=3  positions=[4, 9, 24]
+    D099: tf=3  positions=[5, 11, 29]
+
+grey                 df= 13
+    D003: tf=3  positions=[5, 11, 29]
+    D013: tf=3  positions=[5, 11, 27]
+    D023: tf=3  positions=[5, 11, 27]
+    D029: tf=3  positions=[5, 11, 27]
+    D033: tf=3  positions=[5, 11, 29]
+    D043: tf=3  positions=[5, 11, 27]
+    D053: tf=3  positions=[5, 11, 27]
+    D059: tf=3  positions=[4, 9, 25]
+    ... (+5 more)
+
+handloom             df=  5
+    D015: tf=2  positions=[2, 7]
+    D035: tf=2  positions=[2, 7]
+    D055: tf=2  positions=[2, 7]
+    D075: tf=2  positions=[2, 7]
+    D095: tf=2  positions=[2, 7]
+
+high                 df= 10
+    D009: tf=3  positions=[1, 8, 25]
+    D019: tf=1  positions=[21]
+    D029: tf=3  positions=[1, 7, 23]
+    D039: tf=1  positions=[23]
+    D049: tf=3  positions=[1, 7, 23]
+    D059: tf=1  positions=[21]
+    D069: tf=3  positions=[1, 8, 25]
+    D079: tf=1  positions=[21]
+    ... (+2 more)
+
+hoodi                df= 10
+    D007: tf=3  positions=[3, 8, 13]
+    D017: tf=3  positions=[3, 9, 14]
+    D027: tf=3  positions=[3, 8, 13]
+    D037: tf=3  positions=[3, 8, 12]
+    D047: tf=3  positions=[3, 9, 15]
+    D057: tf=3  positions=[3, 8, 12]
+    D067: tf=3  positions=[3, 8, 13]
+    D077: tf=3  positions=[3, 9, 14]
+    ... (+2 more)
+
+indian               df=100
+    D001: tf=1  positions=[20]
+    D002: tf=1  positions=[16]
+    D003: tf=1  positions=[19]
+    D004: tf=1  positions=[16]
+    D005: tf=1  positions=[17]
+    D006: tf=1  positions=[16]
+    D007: tf=1  positions=[16]
+    D008: tf=1  positions=[16]
+    ... (+92 more)
+
+jacket               df= 10
+    D008: tf=3  positions=[3, 8, 13]
+    D018: tf=3  positions=[3, 8, 12]
+    D028: tf=3  positions=[3, 8, 13]
+    D038: tf=3  positions=[3, 8, 12]
+    D048: tf=3  positions=[3, 8, 13]
+    D058: tf=3  positions=[3, 8, 12]
+    D068: tf=3  positions=[3, 8, 13]
+    D078: tf=3  positions=[3, 8, 12]
+    ... (+2 more)
+
+jean                 df= 10
+    D003: tf=3  positions=[4, 10, 16]
+    D013: tf=3  positions=[4, 10, 15]
+    D023: tf=3  positions=[4, 10, 15]
+    D033: tf=3  positions=[4, 10, 16]
+    D043: tf=3  positions=[4, 10, 15]
+    D053: tf=3  positions=[4, 10, 15]
+    D063: tf=3  positions=[4, 10, 16]
+    D073: tf=3  positions=[4, 10, 15]
+    ... (+2 more)
+
+kangaroo             df= 10
+    D007: tf=1  positions=[19]
+    D017: tf=1  positions=[20]
+    D027: tf=1  positions=[19]
+    D037: tf=1  positions=[18]
+    D047: tf=1  positions=[21]
+    D057: tf=1  positions=[18]
+    D067: tf=1  positions=[19]
+    D077: tf=1  positions=[20]
+    ... (+2 more)
+
+kurta                df= 10
+    D004: tf=3  positions=[3, 8, 13]
+    D014: tf=3  positions=[3, 8, 13]
+    D024: tf=3  positions=[3, 8, 13]
+    D034: tf=3  positions=[3, 8, 13]
+    D044: tf=3  positions=[3, 9, 15]
+    D054: tf=3  positions=[3, 8, 13]
+    D064: tf=3  positions=[3, 8, 13]
+    D074: tf=3  positions=[3, 8, 13]
+    ... (+2 more)
+
+l                    df= 20
+    D003: tf=1  positions=[42]
+    D008: tf=1  positions=[38]
+    D013: tf=1  positions=[40]
+    D018: tf=1  positions=[36]
+    D023: tf=1  positions=[40]
+    D028: tf=1  positions=[37]
+    D033: tf=1  positions=[42]
+    D038: tf=1  positions=[37]
+    ... (+12 more)
+
+lavend               df=  1
+    D046: tf=3  positions=[4, 9, 25]
+
+leg                  df= 10
+    D009: tf=3  positions=[4, 11, 17]
+    D019: tf=3  positions=[3, 8, 13]
+    D029: tf=3  positions=[4, 10, 15]
+    D039: tf=3  positions=[3, 9, 15]
+    D049: tf=3  positions=[4, 10, 15]
+    D059: tf=3  positions=[3, 8, 13]
+    D069: tf=3  positions=[4, 11, 17]
+    D079: tf=3  positions=[3, 8, 13]
+    ... (+2 more)
+
+light                df=  1
+    D032: tf=3  positions=[4, 10, 28]
+
+lightweight          df= 10
+    D008: tf=1  positions=[19]
+    D018: tf=1  positions=[18]
+    D028: tf=1  positions=[19]
+    D038: tf=1  positions=[18]
+    D048: tf=1  positions=[19]
+    D058: tf=1  positions=[18]
+    D068: tf=1  positions=[19]
+    D078: tf=1  positions=[18]
+    ... (+2 more)
+
+linen                df= 10
+    D002: tf=1  positions=[11]
+    D004: tf=1  positions=[11]
+    D022: tf=1  positions=[11]
+    D024: tf=1  positions=[11]
+    D042: tf=1  positions=[11]
+    D044: tf=1  positions=[13]
+    D062: tf=1  positions=[11]
+    D064: tf=1  positions=[11]
+    ... (+2 more)
+
+m                    df= 20
+    D002: tf=1  positions=[39]
+    D007: tf=1  positions=[38]
+    D012: tf=1  positions=[38]
+    D017: tf=1  positions=[40]
+    D022: tf=1  positions=[38]
+    D027: tf=1  positions=[39]
+    D032: tf=1  positions=[42]
+    D037: tf=1  positions=[37]
+    ... (+12 more)
+
+machin               df= 10
+    D001: tf=1  positions=[25]
+    D011: tf=1  positions=[24]
+    D021: tf=1  positions=[27]
+    D031: tf=1  positions=[26]
+    D041: tf=1  positions=[25]
+    D051: tf=1  positions=[26]
+    D061: tf=1  positions=[25]
+    D071: tf=1  positions=[24]
+    ... (+2 more)
+
+made                 df=100
+    D001: tf=1  positions=[14]
+    D002: tf=1  positions=[10]
+    D003: tf=1  positions=[12]
+    D004: tf=1  positions=[10]
+    D005: tf=1  positions=[12]
+    D006: tf=1  positions=[10]
+    D007: tf=1  positions=[10]
+    D008: tf=1  positions=[10]
+    ... (+92 more)
+
+maroon               df=  9
+    D025: tf=3  positions=[5, 11, 26]
+    D030: tf=3  positions=[3, 7, 23]
+    D034: tf=3  positions=[4, 9, 25]
+    D041: tf=3  positions=[6, 13, 29]
+    D042: tf=3  positions=[4, 9, 25]
+    D060: tf=3  positions=[4, 9, 25]
+    D066: tf=3  positions=[4, 9, 25]
+    D090: tf=3  positions=[3, 7, 23]
+    ... (+1 more)
+
+men                  df= 35
+    D001: tf=2  positions=[0, 7]
+    D002: tf=2  positions=[0, 5]
+    D003: tf=2  positions=[0, 6]
+    D004: tf=2  positions=[0, 5]
+    D011: tf=2  positions=[0, 6]
+    D013: tf=2  positions=[0, 6]
+    D020: tf=2  positions=[0, 6]
+    D021: tf=2  positions=[0, 8]
+    ... (+27 more)
+
+midi                 df=  5
+    D006: tf=2  positions=[2, 7]
+    D026: tf=2  positions=[2, 8]
+    D046: tf=2  positions=[2, 7]
+    D066: tf=2  positions=[2, 7]
+    D086: tf=2  positions=[2, 8]
+
+minim                df= 16
+    D006: tf=1  positions=[23]
+    D012: tf=1  positions=[23]
+    D018: tf=1  positions=[21]
+    D024: tf=1  positions=[23]
+    D030: tf=1  positions=[21]
+    D036: tf=1  positions=[22]
+    D042: tf=1  positions=[23]
+    D048: tf=1  positions=[22]
+    ... (+8 more)
+
+mustard              df=  3
+    D011: tf=3  positions=[5, 11, 28]
+    D054: tf=3  positions=[4, 9, 25]
+    D081: tf=3  positions=[6, 13, 30]
+
+navi                 df= 10
+    D017: tf=3  positions=[4, 10, 26]
+    D020: tf=3  positions=[4, 10, 28]
+    D026: tf=3  positions=[4, 10, 28]
+    D044: tf=3  positions=[4, 10, 28]
+    D047: tf=3  positions=[4, 10, 27]
+    D050: tf=3  positions=[3, 8, 26]
+    D051: tf=3  positions=[5, 12, 31]
+    D077: tf=3  positions=[4, 10, 26]
+    ... (+2 more)
+
+neck                 df=  5
+    D001: tf=2  positions=[3, 10]
+    D021: tf=2  positions=[3, 11]
+    D041: tf=2  positions=[3, 10]
+    D061: tf=2  positions=[3, 10]
+    D081: tf=2  positions=[3, 10]
+
+nylon                df=  5
+    D019: tf=1  positions=[11]
+    D039: tf=1  positions=[13]
+    D059: tf=1  positions=[11]
+    D079: tf=1  positions=[11]
+    D099: tf=1  positions=[13]
+
+offic                df=100
+    D001: tf=1  positions=[34]
+    D002: tf=1  positions=[31]
+    D003: tf=1  positions=[34]
+    D004: tf=1  positions=[30]
+    D005: tf=1  positions=[31]
+    D006: tf=1  positions=[30]
+    D007: tf=1  positions=[30]
+    D008: tf=1  positions=[30]
+    ... (+92 more)
+
+oliv                 df= 10
+    D008: tf=3  positions=[4, 9, 25]
+    D009: tf=3  positions=[5, 12, 30]
+    D031: tf=3  positions=[5, 12, 30]
+    D038: tf=3  positions=[4, 9, 24]
+    D039: tf=3  positions=[4, 10, 28]
+    D062: tf=3  positions=[4, 9, 26]
+    D068: tf=3  positions=[4, 9, 25]
+    D069: tf=3  positions=[5, 12, 30]
+    ... (+2 more)
+
+overs                df= 10
+    D007: tf=2  positions=[1, 6]
+    D011: tf=2  positions=[1, 7]
+    D027: tf=2  positions=[1, 6]
+    D031: tf=2  positions=[1, 8]
+    D047: tf=2  positions=[1, 7]
+    D051: tf=2  positions=[1, 8]
+    D067: tf=2  positions=[1, 6]
+    D071: tf=2  positions=[1, 7]
+    ... (+2 more)
+
+pair                 df=100
+    D001: tf=1  positions=[50]
+    D002: tf=1  positions=[48]
+    D003: tf=1  positions=[51]
+    D004: tf=1  positions=[47]
+    D005: tf=1  positions=[48]
+    D006: tf=1  positions=[46]
+    D007: tf=1  positions=[47]
+    D008: tf=1  positions=[47]
+    ... (+92 more)
+
+pink                 df=  6
+    D004: tf=3  positions=[4, 9, 25]
+    D016: tf=3  positions=[5, 11, 27]
+    D032: tf=3  positions=[5, 11, 29]
+    D055: tf=3  positions=[4, 9, 24]
+    D074: tf=3  positions=[4, 9, 26]
+    D086: tf=3  positions=[5, 11, 29]
+
+pocket               df= 10
+    D007: tf=1  positions=[20]
+    D017: tf=1  positions=[21]
+    D027: tf=1  positions=[20]
+    D037: tf=1  positions=[19]
+    D047: tf=1  positions=[22]
+    D057: tf=1  positions=[19]
+    D067: tf=1  positions=[20]
+    D077: tf=1  positions=[21]
+    ... (+2 more)
+
+poli                 df= 10
+    D007: tf=1  positions=[11]
+    D020: tf=1  positions=[13]
+    D027: tf=1  positions=[11]
+    D040: tf=1  positions=[11]
+    D047: tf=1  positions=[13]
+    D060: tf=1  positions=[11]
+    D067: tf=1  positions=[11]
+    D080: tf=1  positions=[13]
+    ... (+2 more)
+
+polyest              df=  5
+    D008: tf=1  positions=[12]
+    D028: tf=1  positions=[12]
+    D048: tf=1  positions=[12]
+    D068: tf=1  positions=[12]
+    D088: tf=1  positions=[12]
+
+print                df= 20
+    D005: tf=3  positions=[1, 7, 22]
+    D014: tf=2  positions=[1, 6]
+    D015: tf=1  positions=[20]
+    D019: tf=2  positions=[1, 6]
+    D025: tf=3  positions=[1, 7, 22]
+    D034: tf=2  positions=[1, 6]
+    D035: tf=1  positions=[20]
+    D039: tf=2  positions=[1, 7]
+    ... (+12 more)
+
+puffer               df=  5
+    D008: tf=2  positions=[2, 7]
+    D028: tf=2  positions=[2, 7]
+    D048: tf=2  positions=[2, 7]
+    D068: tf=2  positions=[2, 7]
+    D088: tf=2  positions=[2, 7]
+
+pullov               df=  5
+    D017: tf=2  positions=[2, 8]
+    D037: tf=2  positions=[2, 7]
+    D057: tf=2  positions=[2, 7]
+    D077: tf=2  positions=[2, 8]
+    D097: tf=2  positions=[2, 7]
+
+purpl                df=  1
+    D045: tf=3  positions=[5, 11, 27]
+
+quilt                df= 10
+    D008: tf=1  positions=[11]
+    D018: tf=2  positions=[1, 6]
+    D028: tf=1  positions=[11]
+    D038: tf=2  positions=[1, 6]
+    D048: tf=1  positions=[11]
+    D058: tf=2  positions=[1, 6]
+    D068: tf=1  positions=[11]
+    D078: tf=2  positions=[1, 6]
+    ... (+2 more)
+
+red                  df=  2
+    D015: tf=3  positions=[4, 9, 25]
+    D085: tf=3  positions=[5, 11, 26]
+
+regular              df=100
+    D001: tf=1  positions=[47]
+    D002: tf=1  positions=[45]
+    D003: tf=3  positions=[1, 7, 48]
+    D004: tf=3  positions=[1, 6, 44]
+    D005: tf=1  positions=[45]
+    D006: tf=1  positions=[43]
+    D007: tf=1  positions=[44]
+    D008: tf=1  positions=[44]
+    ... (+92 more)
+
+sare                 df= 10
+    D005: tf=3  positions=[4, 10, 14]
+    D015: tf=3  positions=[3, 8, 12]
+    D025: tf=3  positions=[4, 10, 14]
+    D035: tf=3  positions=[3, 8, 12]
+    D045: tf=3  positions=[4, 10, 14]
+    D055: tf=3  positions=[3, 8, 12]
+    D065: tf=3  positions=[4, 10, 14]
+    D075: tf=3  positions=[3, 8, 12]
+    ... (+2 more)
+
+shirt                df= 20
+    D001: tf=3  positions=[5, 12, 17]
+    D002: tf=3  positions=[3, 8, 13]
+    D011: tf=3  positions=[4, 10, 16]
+    D012: tf=3  positions=[3, 8, 13]
+    D021: tf=3  positions=[5, 13, 19]
+    D022: tf=3  positions=[3, 8, 13]
+    D031: tf=3  positions=[4, 11, 18]
+    D032: tf=3  positions=[3, 9, 15]
+    ... (+12 more)
+
+short                df= 10
+    D006: tf=1  positions=[21]
+    D016: tf=1  positions=[22]
+    D026: tf=1  positions=[23]
+    D036: tf=1  positions=[20]
+    D046: tf=1  positions=[21]
+    D056: tf=1  positions=[20]
+    D066: tf=1  positions=[21]
+    D076: tf=1  positions=[20]
+    ... (+2 more)
+
+shrinkag             df= 16
+    D006: tf=1  positions=[24]
+    D012: tf=1  positions=[24]
+    D018: tf=1  positions=[22]
+    D024: tf=1  positions=[24]
+    D030: tf=1  positions=[22]
+    D036: tf=1  positions=[23]
+    D042: tf=1  positions=[24]
+    D048: tf=1  positions=[23]
+    ... (+8 more)
+
+size                 df=100
+    D001: tf=2  positions=[41, 43]
+    D002: tf=2  positions=[38, 41]
+    D003: tf=2  positions=[41, 44]
+    D004: tf=2  positions=[37, 40]
+    D005: tf=2  positions=[38, 41]
+    D006: tf=2  positions=[37, 39]
+    D007: tf=2  positions=[37, 40]
+    D008: tf=2  positions=[37, 40]
+    ... (+92 more)
+
+skin                 df= 17
+    D002: tf=1  positions=[23]
+    D008: tf=1  positions=[22]
+    D014: tf=1  positions=[23]
+    D020: tf=1  positions=[25]
+    D026: tf=1  positions=[25]
+    D032: tf=1  positions=[25]
+    D038: tf=1  positions=[21]
+    D044: tf=1  positions=[25]
+    ... (+9 more)
+
+sky                  df=  2
+    D021: tf=3  positions=[6, 14, 32]
+    D091: tf=3  positions=[5, 12, 30]
+
+sleev                df= 10
+    D006: tf=1  positions=[22]
+    D016: tf=1  positions=[23]
+    D026: tf=1  positions=[24]
+    D036: tf=1  positions=[21]
+    D046: tf=1  positions=[22]
+    D056: tf=1  positions=[21]
+    D066: tf=1  positions=[22]
+    D076: tf=1  positions=[21]
+    ... (+2 more)
+
+slim                 df= 15
+    D002: tf=1  positions=[21]
+    D012: tf=1  positions=[21]
+    D013: tf=2  positions=[1, 7]
+    D022: tf=1  positions=[21]
+    D032: tf=1  positions=[23]
+    D033: tf=2  positions=[1, 7]
+    D042: tf=1  positions=[21]
+    D052: tf=1  positions=[21]
+    ... (+7 more)
+
+slub                 df=  5
+    D014: tf=1  positions=[12]
+    D034: tf=1  positions=[12]
+    D054: tf=1  positions=[12]
+    D074: tf=1  positions=[12]
+    D094: tf=1  positions=[12]
+
+solid                df=  5
+    D006: tf=2  positions=[1, 6]
+    D026: tf=2  positions=[1, 7]
+    D046: tf=2  positions=[1, 6]
+    D066: tf=2  positions=[1, 6]
+    D086: tf=2  positions=[1, 7]
+
+spandex              df=  5
+    D019: tf=1  positions=[12]
+    D039: tf=1  positions=[14]
+    D059: tf=1  positions=[12]
+    D079: tf=1  positions=[12]
+    D099: tf=1  positions=[14]
+
+standard             df=100
+    D001: tf=1  positions=[42]
+    D002: tf=1  positions=[40]
+    D003: tf=1  positions=[43]
+    D004: tf=1  positions=[39]
+    D005: tf=1  positions=[40]
+    D006: tf=1  positions=[38]
+    D007: tf=1  positions=[39]
+    D008: tf=1  positions=[39]
+    ... (+92 more)
+
+stitch               df= 23
+    D003: tf=1  positions=[25]
+    D005: tf=1  positions=[25]
+    D011: tf=1  positions=[27]
+    D013: tf=1  positions=[24]
+    D017: tf=1  positions=[25]
+    D023: tf=2  positions=[24, 26]
+    D029: tf=1  positions=[26]
+    D033: tf=1  positions=[25]
+    ... (+15 more)
+
+straight             df=  5
+    D014: tf=2  positions=[2, 7]
+    D034: tf=2  positions=[2, 7]
+    D054: tf=2  positions=[2, 7]
+    D074: tf=2  positions=[2, 7]
+    D094: tf=2  positions=[2, 7]
+
+stretch              df= 13
+    D003: tf=1  positions=[14]
+    D009: tf=3  positions=[3, 10, 16]
+    D013: tf=3  positions=[3, 9, 13]
+    D029: tf=3  positions=[3, 9, 14]
+    D033: tf=3  positions=[3, 9, 14]
+    D043: tf=1  positions=[13]
+    D049: tf=3  positions=[3, 9, 14]
+    D053: tf=2  positions=[3, 9]
+    ... (+5 more)
+
+stripe               df=  5
+    D012: tf=2  positions=[1, 6]
+    D032: tf=2  positions=[1, 7]
+    D052: tf=2  positions=[1, 6]
+    D072: tf=2  positions=[1, 6]
+    D092: tf=2  positions=[1, 6]
+
+style                df=100
+    D001: tf=1  positions=[37]
+    D002: tf=1  positions=[34]
+    D003: tf=1  positions=[37]
+    D004: tf=1  positions=[33]
+    D005: tf=1  positions=[34]
+    D006: tf=1  positions=[33]
+    D007: tf=1  positions=[33]
+    D008: tf=1  positions=[33]
+    ... (+92 more)
+
+suitabl              df=100
+    D001: tf=1  positions=[45]
+    D002: tf=1  positions=[43]
+    D003: tf=1  positions=[46]
+    D004: tf=1  positions=[42]
+    D005: tf=1  positions=[43]
+    D006: tf=1  positions=[41]
+    D007: tf=1  positions=[42]
+    D008: tf=1  positions=[42]
+    ... (+92 more)
+
+sweatshirt           df= 10
+    D010: tf=3  positions=[2, 6, 11]
+    D020: tf=3  positions=[3, 9, 15]
+    D030: tf=3  positions=[2, 6, 11]
+    D040: tf=3  positions=[3, 8, 13]
+    D050: tf=3  positions=[2, 7, 13]
+    D060: tf=3  positions=[3, 8, 13]
+    D070: tf=3  positions=[2, 6, 11]
+    D080: tf=3  positions=[3, 9, 15]
+    ... (+2 more)
+
+t                    df= 10
+    D001: tf=3  positions=[4, 11, 16]
+    D011: tf=3  positions=[3, 9, 15]
+    D021: tf=3  positions=[4, 12, 18]
+    D031: tf=3  positions=[3, 10, 17]
+    D041: tf=3  positions=[4, 11, 16]
+    D051: tf=3  positions=[3, 10, 17]
+    D061: tf=3  positions=[4, 11, 16]
+    D071: tf=3  positions=[3, 9, 15]
+    ... (+2 more)
+
+teal                 df=  2
+    D024: tf=3  positions=[4, 9, 25]
+    D094: tf=3  positions=[4, 9, 25]
+
+travel               df=100
+    D001: tf=1  positions=[35]
+    D002: tf=1  positions=[32]
+    D003: tf=1  positions=[35]
+    D004: tf=1  positions=[31]
+    D005: tf=1  positions=[32]
+    D006: tf=1  positions=[31]
+    D007: tf=1  positions=[31]
+    D008: tf=1  positions=[31]
+    ... (+92 more)
+
+unisex               df=  5
+    D017: tf=2  positions=[0, 6]
+    D037: tf=2  positions=[0, 5]
+    D057: tf=2  positions=[0, 5]
+    D077: tf=2  positions=[0, 6]
+    D097: tf=2  positions=[0, 5]
+
+use                  df=100
+    D001: tf=1  positions=[48]
+    D002: tf=1  positions=[46]
+    D003: tf=1  positions=[49]
+    D004: tf=1  positions=[45]
+    D005: tf=1  positions=[46]
+    D006: tf=1  positions=[44]
+    D007: tf=1  positions=[45]
+    D008: tf=1  positions=[45]
+    ... (+92 more)
+
+viscos               df= 10
+    D012: tf=1  positions=[11]
+    D016: tf=1  positions=[13]
+    D032: tf=1  positions=[13]
+    D036: tf=1  positions=[11]
+    D052: tf=1  positions=[11]
+    D056: tf=1  positions=[11]
+    D072: tf=1  positions=[11]
+    D076: tf=1  positions=[11]
+    ... (+2 more)
+
+waist                df= 10
+    D009: tf=3  positions=[2, 9, 26]
+    D019: tf=1  positions=[22]
+    D029: tf=3  positions=[2, 8, 24]
+    D039: tf=1  positions=[24]
+    D049: tf=3  positions=[2, 8, 24]
+    D059: tf=1  positions=[22]
+    D069: tf=3  positions=[2, 9, 26]
+    D079: tf=1  positions=[22]
+    ... (+2 more)
+
+waistband            df= 10
+    D009: tf=1  positions=[24]
+    D019: tf=1  positions=[20]
+    D029: tf=1  positions=[22]
+    D039: tf=1  positions=[22]
+    D049: tf=1  positions=[22]
+    D059: tf=1  positions=[20]
+    D069: tf=1  positions=[24]
+    D079: tf=1  positions=[20]
+    ... (+2 more)
+
+wardrob              df=100
+    D001: tf=1  positions=[52]
+    D002: tf=1  positions=[50]
+    D003: tf=1  positions=[53]
+    D004: tf=1  positions=[49]
+    D005: tf=1  positions=[50]
+    D006: tf=1  positions=[48]
+    D007: tf=1  positions=[49]
+    D008: tf=1  positions=[49]
+    ... (+92 more)
+
+warm                 df= 20
+    D007: tf=1  positions=[21]
+    D010: tf=1  positions=[19]
+    D017: tf=1  positions=[22]
+    D020: tf=1  positions=[23]
+    D027: tf=1  positions=[21]
+    D030: tf=1  positions=[19]
+    D037: tf=1  positions=[20]
+    D040: tf=1  positions=[21]
+    ... (+12 more)
+
+washabl              df= 10
+    D001: tf=1  positions=[26]
+    D011: tf=1  positions=[25]
+    D021: tf=1  positions=[28]
+    D031: tf=1  positions=[27]
+    D041: tf=1  positions=[26]
+    D051: tf=1  positions=[27]
+    D061: tf=1  positions=[26]
+    D071: tf=1  positions=[25]
+    ... (+2 more)
+
+wear                 df=100
+    D001: tf=1  positions=[21]
+    D002: tf=1  positions=[17]
+    D003: tf=1  positions=[20]
+    D004: tf=1  positions=[17]
+    D005: tf=4  positions=[3, 9, 18, 21]
+    D006: tf=1  positions=[17]
+    D007: tf=1  positions=[17]
+    D008: tf=2  positions=[17, 21]
+    ... (+92 more)
+
+well                 df=100
+    D001: tf=1  positions=[32]
+    D002: tf=1  positions=[29]
+    D003: tf=1  positions=[32]
+    D004: tf=1  positions=[28]
+    D005: tf=1  positions=[29]
+    D006: tf=1  positions=[28]
+    D007: tf=1  positions=[28]
+    D008: tf=1  positions=[28]
+    ... (+92 more)
+
+white                df=  4
+    D022: tf=3  positions=[4, 9, 25]
+    D061: tf=3  positions=[6, 13, 29]
+    D064: tf=3  positions=[4, 9, 25]
+    D092: tf=3  positions=[4, 9, 26]
+
+wine                 df=  3
+    D027: tf=3  positions=[4, 9, 26]
+    D057: tf=3  positions=[4, 9, 25]
+    D087: tf=3  positions=[4, 9, 26]
+
+winter               df= 20
+    D008: tf=1  positions=[20]
+    D010: tf=1  positions=[17]
+    D018: tf=3  positions=[2, 7, 19]
+    D020: tf=1  positions=[21]
+    D028: tf=1  positions=[20]
+    D030: tf=1  positions=[17]
+    D038: tf=3  positions=[2, 7, 19]
+    D040: tf=1  positions=[19]
+    ... (+12 more)
+
+women                df= 60
+    D005: tf=2  positions=[0, 6]
+    D006: tf=2  positions=[0, 5]
+    D007: tf=2  positions=[0, 5]
+    D008: tf=2  positions=[0, 5]
+    D009: tf=2  positions=[0, 7]
+    D010: tf=2  positions=[0, 4]
+    D012: tf=2  positions=[0, 5]
+    D014: tf=2  positions=[0, 5]
+    ... (+52 more)
+
+work                 df=100
+    D001: tf=1  positions=[31]
+    D002: tf=1  positions=[28]
+    D003: tf=1  positions=[31]
+    D004: tf=1  positions=[27]
+    D005: tf=1  positions=[28]
+    D006: tf=1  positions=[27]
+    D007: tf=1  positions=[27]
+    D008: tf=1  positions=[27]
+    ... (+92 more)
+
+xl                   df= 20
+    D004: tf=1  positions=[38]
+    D009: tf=1  positions=[44]
+    D014: tf=1  positions=[39]
+    D019: tf=1  positions=[38]
+    D024: tf=1  positions=[38]
+    D029: tf=1  positions=[40]
+    D034: tf=1  positions=[38]
+    D039: tf=1  positions=[42]
+    ... (+12 more)
+
+xxl                  df= 20
+    D005: tf=1  positions=[39]
+    D010: tf=1  positions=[36]
+    D015: tf=1  positions=[38]
+    D020: tf=1  positions=[42]
+    D025: tf=1  positions=[39]
+    D030: tf=1  positions=[36]
+    D035: tf=1  positions=[37]
+    D040: tf=1  positions=[38]
+    ... (+12 more)
+
+yellow               df=  2
+    D035: tf=3  positions=[4, 9, 24]
+    D056: tf=3  positions=[4, 9, 25]
+
+zip                  df= 10
+    D003: tf=1  positions=[22]
+    D013: tf=1  positions=[21]
+    D023: tf=1  positions=[21]
+    D033: tf=1  positions=[22]
+    D043: tf=1  positions=[21]
+    D053: tf=1  positions=[21]
+    D063: tf=1  positions=[22]
+    D073: tf=1  positions=[21]
+    ... (+2 more)
+
