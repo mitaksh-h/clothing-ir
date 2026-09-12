@@ -152,5 +152,5 @@ VSM retrieval, satisfying the Part E requirement.
 This assignment permits groups of two. Add both members' names/roll
 numbers below before zipping and submitting:
 
-- Member 1: ______________________
-- Member 2: ______________________
+- Mitaksh Goswami 2410110875
+
