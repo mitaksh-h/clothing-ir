@@ -148,9 +148,6 @@ VSM retrieval, satisfying the Part E requirement.
 - [x] Full test report, 11 free-text + 6 phrase + 4 proximity queries,
       one OOV query, VSM-vs-positional discussion (`output/test_report.txt`)
 
-## Note on group submission
-This assignment permits groups of two. Add both members' names/roll
-numbers below before zipping and submitting:
 
 - Mitaksh Goswami 2410110875
 
